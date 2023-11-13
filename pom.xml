@@ -221,13 +221,8 @@
   </scm>
 
   <prerequisites>
-    <maven>3.0.3</maven><distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>Artifactory-releases</name>
-        <url>http://3.110.87.89:8081/artifactory/libs-release-local</url>
-    </repository>
-</distributionManagement>
+    <maven>3.0.3</maven>
+
   </prerequisites>
 
 </project>
